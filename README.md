@@ -8,6 +8,7 @@
 - 📄 Know about my experiences [Analyst with experience in developing IT solutions using programming languages and managing databases. Specialized in designing and developing robust and scalable systems, applying agile methodologies to achieve high-quality results within tight deadlines. My ability to collaborate effectively with multidisciplinary teams, combined with a focus on performance optimization and detailed documentation, enables me to deliver technology solutions that not only meet functional requirements but also excel in scalability and maintainability.](Analyst with experience in developing IT solutions using programming languages and managing databases. Specialized in designing and developing robust and scalable systems, applying agile methodologies to achieve high-quality results within tight deadlines. My ability to collaborate effectively with multidisciplinary teams, combined with a focus on performance optimization and detailed documentation, enables me to deliver technology solutions that not only meet functional requirements but also excel in scalability and maintainability.)
 
 <h3 align="left">Connect with me:</h3>
+  <link>https://www.linkedin.com/in/carlos-guerra-80234920/</link>
 <p align="left">
 </p>
 
