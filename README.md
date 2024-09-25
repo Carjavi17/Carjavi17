@@ -18,10 +18,10 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-guerra-80234920/)
+  <a href="https://www.linkedin.com/in/carlos-guerra-80234920/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
 </p>
-
----
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
